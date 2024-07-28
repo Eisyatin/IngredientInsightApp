@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618710087668",
+    "project_id": "ingredientinsight-9a088",
+    "storage_bucket": "ingredientinsight-9a088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618710087668:android:a79675eb44ef5aa8b0eba1",
+        "android_client_info": {
+          "package_name": "com.example.text_recognization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlLNSN7cxB_sD_mHpi42iNFBqzF4THPLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
